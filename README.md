@@ -1,4 +1,4 @@
-# Shopping List API
+# Node-Project-TSK1
 
 A REST API for managing shopping list items built with Node.js, Express, and TypeScript. This application allows users to create, read, update, and delete shopping list items through HTTP endpoints.
 
